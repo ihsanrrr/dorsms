@@ -1,4 +1,4 @@
-$ git clone https://github.com/ariq983/perboman
+$ git clone https://github.com/ihsanrrr/dorsms
 
 $ cd perboman
 
